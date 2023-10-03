@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^4.25.1",
+    "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-slot": "^1.0.2",
     "@types/node": "20.7.1",
     "@types/react": "18.2.23",
@@ -19,6 +20,7 @@
     "clsx": "^2.0.0",
     "eslint": "8.50.0",
     "eslint-config-next": "13.5.3",
+    "lucide": "^0.284.0",
     "lucide-react": "^0.279.0",
     "next": "13.5.3",
     "postcss": "8.4.31",
